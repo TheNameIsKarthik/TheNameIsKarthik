@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGunbFN9YWiaQ/profile-displaybackgroundimage-shrink_200_800/0/1646138094808?e=1659571200&v=beta&t=QWwsxzzUQCuQytPM2-rHToYn-hyDyeg6PgrsH1V3G1Y)]
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGunbFN9YWiaQ/profile-displaybackgroundimage-shrink_200_800/0/1646138094808?e=1659571200&v=beta&t=QWwsxzzUQCuQytPM2-rHToYn-hyDyeg6PgrsH1V3G1Y)
 <h1 align="center">Hi 👋, This is Karthik</h1>
 <h3 align="center">Passionated towards learning and contributions.</h3>
 
