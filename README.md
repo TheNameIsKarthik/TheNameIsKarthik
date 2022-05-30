@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **thisiskarthikxd@gmail.com**
 
-- ⚡ Fun fact **Hot water will turn into ice faster than cold water.**
+- ⚡ Fun fact **Almost everything powered by electricity uses some form of coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
