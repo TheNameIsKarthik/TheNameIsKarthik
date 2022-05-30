@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++, Web Development**
 
-- 💬 Ask me about **Data Structures, C**
+- 💬 Ask me about **Designing Tools, Microsoft Office, Algorithms**
 
 - 📫 How to reach me **thisiskarthikxd@gmail.com**
 
