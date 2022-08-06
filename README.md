@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiskarthikxd&label=Profile%20views&color=0e75b6&style=flat" alt="thisiskarthikxd" /> </p>
 
-- 🌱 I’m currently learning **C++, Web Development**
+- 🌱 I’m currently learning **Java, Web Development**
 
 - 💬 Ask me about **Designing Tools, Microsoft Office, Algorithms**
 
