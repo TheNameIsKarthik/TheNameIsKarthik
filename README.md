@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Web Development**
 
-- 💬 Ask me about **Designing Tools, Microsoft Office, Algorithms**
+- 💬 Ask me about **Designing Tools, Microsoft Office, Contributions**
 
 - 📫 How to reach me **thisiskarthikxd@gmail.com**
 
