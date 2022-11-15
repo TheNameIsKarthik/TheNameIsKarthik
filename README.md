@@ -1,6 +1,6 @@
 ![MasterHead](https://i.postimg.cc/G2m31gfK/Sai-Karthik-Boddeda-1.png)
-<h1 align="center">Hi 👋, This is Karthik</h1>
-<h3 align="center">Passionated towards learning and contributions.</h3>
+<h1 align="center">Hi <img src = Hi.gif height = "32px">, This is Karthik</h1>
+<h3 align="center">Passionated towards learning and development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Web Development**
 
-- 💬 Ask me about **Designing Tools, Microsoft Office, Contributions**
+- 💬 Ask me about **Designing Tools, Development, Contributions**
 
 - 📫 How to reach me **thisiskarthikxd@gmail.com**
 
@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisiskarthikxd&show_icons=true&locale=en" alt="thisiskarthikxd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthikxd&" alt="thisiskarthikxd" /></p>
+
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/thisiskarthikxd/thisiskarthikxd/blob/main/thnks.svg"/>
