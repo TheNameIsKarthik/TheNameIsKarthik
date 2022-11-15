@@ -20,7 +20,7 @@
 
           transform:translateX(100%);
 
-          animation: marquee 7s linear infinite;
+          animation: marquee 10s linear infinite;
         }
 
         @keyframes marquee {
@@ -33,7 +33,7 @@
         }
       </style>
       <div class="marquee">
-        <strong>Thanks for visiting my profile, see you next time!</strong>
+        <strong>Thanks for visiting my profile, thisiskarthik signing off!</strong>
       </div>
 		</div>
 	</foreignObject>
