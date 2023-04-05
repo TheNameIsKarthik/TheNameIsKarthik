@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Designing Tools, Development, Contributions**
 
-- 📫 How to reach me **thisiskarthikxd@gmail.com**
+- 📫 How to reach me **thenameiskarthik@pm.me**
 
 - ⚡ Fun fact **Almost everything powered by electricity uses some form of coding.**
 
