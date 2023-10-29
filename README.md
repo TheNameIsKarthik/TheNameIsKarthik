@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **thenameiskarthik@pm.me**
 
-- 🫶 My deployed projects at **vercel.com/thenameiskarthik**
+- 🫶 My deployed projects at **[vercel.com/thenameiskarthik](vercel.com/thenameiskarthik)**
 
 - ⚡ Fun fact **Almost everything powered by electricity uses some form of coding.**
 
