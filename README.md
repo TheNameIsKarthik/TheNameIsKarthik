@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **thenameiskarthik@pm.me**
 
+- 🫶 My deployed projects at **vercel.com/thenameiskarthik**
+
 - ⚡ Fun fact **Almost everything powered by electricity uses some form of coding.**
 
 <h3 align="left">Connect with me:</h3>
